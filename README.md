@@ -1,2 +1,2 @@
 # XAutoComplete
-XCode-Plug
+XCode-Plug-in
